@@ -1,4 +1,4 @@
-# Salas UFCG
+# Salas UFCG - Termo de abertura
 
 > "Oh não, tá tendo aula na minha sala? Apresentação de PIBIC?" -
 > algo que  todo professor passa algum dia, UFCG 
